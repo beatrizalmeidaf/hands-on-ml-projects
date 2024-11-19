@@ -49,4 +49,4 @@ Este repositório foi inspirado no livro:
 **Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow** - Aurélien Géron.  
 [Acesse o livro na Amazon](https://www.amazon.com.br).
 
-```
+
