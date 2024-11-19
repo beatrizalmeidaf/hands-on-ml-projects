@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/ce1c5065-e1fe-451e-8e69-b5c2952154e0)
+```markdown
+<img src="https://github.com/user-attachments/assets/ce1c5065-e1fe-451e-8e69-b5c2952154e0" alt="Capa do Livro" width="400"/>
 
 # Mãos à Obra: Aprendizado de Máquina - Projetos Práticos
 
@@ -18,7 +19,7 @@ Este repositório utiliza as seguintes tecnologias e ferramentas:
 - **Jupyter Notebook**
 - **Pandas**
 - **NumPy**
-- **Matplotlib** e **Seaborn** para visualização de dados
+- **Matplotlib** e **Seaborn** 
 
 ## 🛠️ Como Utilizar Este Repositório
 
@@ -26,20 +27,26 @@ Este repositório utiliza as seguintes tecnologias e ferramentas:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
-Instale as dependências necessárias: Utilize um ambiente virtual para evitar conflitos:
+   ```
 
-bash
-Copiar código
-python -m venv venv
-source venv/bin/activate  # ou venv\Scripts\activate no Windows
-pip install -r requirements.txt
-Explore os notebooks: Abra os notebooks com o Jupyter Notebook ou Jupyter Lab:
+2. **Instale as dependências necessárias**:  
+   Utilize um ambiente virtual para evitar conflitos:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # ou venv\Scripts\activate no Windows
+   pip install -r requirements.txt
+   ```
 
-bash
-Copiar código
-jupyter notebook
-📖 Referências
-Este repositório foi inspirado no livro:
-Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow - Aurélien Géron.
-Acesse o livro na Amazon.
+3. **Explore os notebooks**:  
+   Abra os notebooks com o Jupyter Notebook ou Jupyter Lab:
+   ```bash
+   jupyter notebook
+   ```
 
+## 📖 Referências
+
+Este repositório foi inspirado no livro:  
+**Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow** - Aurélien Géron.  
+[Acesse o livro na Amazon](https://www.amazon.com.br).
+
+```
