@@ -28,7 +28,7 @@ Este repositório utiliza as seguintes tecnologias e ferramentas:
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/hands-on-ml-projects.git
+   git clone https://github.com/beatrizalmeidaf/hands-on-ml-projects.git
    cd hands-on-ml-projects
    ```
 
