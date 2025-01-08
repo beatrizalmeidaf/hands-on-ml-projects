@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ce1c5065-e1fe-451e-8e69-b5c2952154e0" alt="Capa do Livro" width="400"/>
+<img src="https://github.com/user-attachments/assets/94f7ed59-e1c9-447a-a90c-a8ae0e3a318d" alt="Capa do Livro" width="400"/>
 
 # Mãos à Obra: Aprendizado de Máquina - Projetos Práticos
 
