@@ -1,10 +1,9 @@
-<img src="https://github.com/user-attachments/assets/94f7ed59-e1c9-447a-a90c-a8ae0e3a318d" alt="Capa do Livro" width="400"/>
-
 # Mãos à Obra: Aprendizado de Máquina - Projetos Práticos
 
-Bem-vindo ao repositório **Mãos à Obra: Aprendizado de Máquina**!  
-Este projeto é dedicado à aplicação prática dos conceitos apresentados no livro **Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow**.  
+Esse projeto é dedicado à aplicação prática dos conceitos apresentados no livro **Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow**.  
 Aqui você encontrará implementações, estudos e experimentos baseados no conteúdo do livro, com foco em consolidar o aprendizado e criar sistemas inteligentes usando Python.
+
+<img src="https://github.com/user-attachments/assets/94f7ed59-e1c9-447a-a90c-a8ae0e3a318d" alt="Capa do Livro" width="400"/>
 
 ## 📚 Objetivo do Repositório
 
