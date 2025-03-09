@@ -9,12 +9,12 @@ Esse projeto é dedicado à aplicação prática dos conceitos apresentados no l
 
 ## 📚 Objetivo do Repositório
 
-O principal objetivo deste repositório é fornecer exemplos práticos e explicações detalhadas de algoritmos e técnicas de aprendizado de máquina, seguindo as orientações do livro.  
+O principal objetivo desse repositório é fornecer exemplos práticos e explicações detalhadas de algoritmos e técnicas de aprendizado de máquina, seguindo as orientações do livro.  
 Ele também serve como um recurso para estudantes e profissionais que desejam aprender ou revisar os conceitos fundamentais de aprendizado de máquina e aplicá-los com ferramentas populares como Scikit-Learn, Keras e TensorFlow.
 
 ## 🚀 Tecnologias Utilizadas
 
-Este repositório utiliza as seguintes tecnologias e ferramentas:
+Esse repositório utiliza as seguintes tecnologias e ferramentas:
 
 - **Python 3.9+**
 - **Scikit-Learn**
@@ -25,7 +25,7 @@ Este repositório utiliza as seguintes tecnologias e ferramentas:
 - **NumPy**
 - **Matplotlib** e **Seaborn**
 
-## 🛠️ Como Utilizar Este Repositório
+## 🛠️ Como Utilizar Esse Repositório
 
 1. **Clone este repositório**:
    ```bash
@@ -49,7 +49,7 @@ Este repositório utiliza as seguintes tecnologias e ferramentas:
 
 ## 📖 Referências
 
-Este repositório foi inspirado no livro:  
+Esse repositório foi inspirado no livro:  
 **Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow** - *Aurélien Géron*.  
 
 [Acesse o livro na Amazon](https://www.amazon.com.br/M%C3%A3os-obra-aprendizado-Scikit-Learn-inteligentes/dp/8550815489/ref=asc_df_8550815489/?tag=googleshopp00-20&linkCode=df0&hvadid=709883381752&hvpos=&hvnetw=g&hvrand=8645558292791321376&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198756&hvtargid=pla-1390910077420&psc=1&mcid=738549eb116a3f84b222a26ab0909b53&gad_source=1).  
